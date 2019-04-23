@@ -11,4 +11,4 @@
 | Glaive        | Magnus        | Fortress  |
 | Taka          | Varya         |  Adagio   |
 
-![alt text](https://github.com/csci3250-2019/student-1155076957/screenshot.png)
+![alt text](https://github.com/csci3250-2019/student-1155076957/screenshot.png "screenshot")
